@@ -49,7 +49,7 @@ client: $(OBJS) $(USER_OBJS) makefile objects.mk $(OPTIONAL_TOOL_DEPS)
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) client
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) client tp0.log
 	-@echo ' '
 
 .PHONY: all clean dependents

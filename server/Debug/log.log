@@ -1,0 +1,32 @@
+[INFO] 21:20:42:155 Servidor/(2462943:2462943): Servidor listo para recibir al cliente
+[INFO] 21:23:06:699 Servidor/(2464367:2464367): Servidor listo para recibir al cliente
+[INFO] 21:23:37:563 Servidor/(2464367:2464367): Se conecto un cliente!
+[INFO] 21:25:27:851 Servidor/(2465741:2465741): Servidor listo para recibir al cliente
+[INFO] 21:25:36:195 Servidor/(2465741:2465741): Se conecto un cliente!
+[INFO] 21:26:14:167 Servidor/(2466239:2466239): Servidor listo para recibir al cliente
+[INFO] 21:26:21:109 Servidor/(2466239:2466239): Se conecto un cliente!
+[INFO] 21:26:21:109 Servidor/(2466239:2466239): Me llego el mensaje valor
+[ERROR] 21:26:21:109 Servidor/(2466239:2466239): el cliente se desconecto. Terminando servidor
+[INFO] 21:26:41:811 Servidor/(2466515:2466515): Servidor listo para recibir al cliente
+[INFO] 21:26:45:533 Servidor/(2466515:2466515): Se conecto un cliente!
+[INFO] 21:26:45:534 Servidor/(2466515:2466515): Me llego el mensaje texto
+[ERROR] 21:26:45:534 Servidor/(2466515:2466515): el cliente se desconecto. Terminando servidor
+[INFO] 21:33:42:584 Servidor/(2470567:2470567): Servidor listo para recibir al cliente
+[INFO] 21:33:46:555 Servidor/(2470567:2470567): Se conecto un cliente!
+[INFO] 21:34:04:703 Servidor/(2470567:2470567): Me llegaron los siguientes valores:
+
+[INFO] 21:34:04:703 Servidor/(2470567:2470567): Probando 
+[INFO] 21:34:04:703 Servidor/(2470567:2470567): Conexion 
+[INFO] 21:34:04:703 Servidor/(2470567:2470567): Server
+[ERROR] 21:34:04:703 Servidor/(2470567:2470567): el cliente se desconecto. Terminando servidor
+[INFO] 21:43:29:436 Servidor/(2476153:2476153): Servidor listo para recibir al cliente
+[INFO] 21:43:35:056 Servidor/(2476153:2476153): Se conecto un cliente!
+[INFO] 21:43:35:056 Servidor/(2476153:2476153): Me llego el mensaje valor
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): Me llegaron los siguientes valores:
+
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): Probando 
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): Paquete
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): 1+6I
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): 2+6I
+[INFO] 21:44:28:548 Servidor/(2476153:2476153): 3+6I
+[ERROR] 21:44:28:548 Servidor/(2476153:2476153): el cliente se desconecto. Terminando servidor
